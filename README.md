@@ -1,2 +1,0 @@
-# TrabajoEntornos_FGI
-#test
